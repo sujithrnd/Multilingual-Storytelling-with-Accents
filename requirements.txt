@@ -1,0 +1,19 @@
+gtts
+pypdf
+pandas
+openai
+streamlit
+#torch
+#transformers
+#
+
+#transformers 
+#langchain_community
+
+# Google Cloud translation
+#google-cloud
+#google-cloud-aiplatform
+
+
+
+ #langchain PyPDF2
